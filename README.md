@@ -1,4 +1,4 @@
-# gasapp
+# Fuelosophy
 
 A new Flutter project.
 
